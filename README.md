@@ -1,4 +1,4 @@
-# Campus-Network-Design-Using-VLAN
+# University Campus Network Design
 A campus network design project using VLANs in Cisco Packet Tracer, implementing multi-department segmentation, inter-VLAN routing, and DHCP configuration.
 This project demonstrates the design and implementation of a Campus Network using VLANs in Cisco Packet Tracer.
 
